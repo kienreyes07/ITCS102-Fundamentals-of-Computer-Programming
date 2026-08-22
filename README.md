@@ -1,6 +1,3 @@
 # ITCS102-Fundamentals-of-Computer-Programming
 
-Reyes Kien Aaron C. 
-BSIT 1-B
-
-Hi everyone! I’m Kien Aaron C. Reyes, a first-year BSIT student, and honestly I’m still learning and getting used to college life. I’m interested in technology and hopefully, I can improve my programming skills along the way. I’m looking forward to meeting new people, learning new things, and enjoying my college journey.
+This repository contains my coursework for ITCS102, including programming exercises, mini-projects, and notes. The subject introduces basic programming concepts using Python, focusing on problem-solving, logic building, and code structure. All files here reflect my learning journey throughout the semester.
