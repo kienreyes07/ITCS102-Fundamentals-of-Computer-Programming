@@ -17,7 +17,6 @@ dif = money
 sum = dif // a
 dif = dif % a
 
-
 sum2 = dif // b
 dif = dif % b
 
