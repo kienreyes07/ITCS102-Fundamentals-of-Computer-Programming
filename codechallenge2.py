@@ -43,8 +43,7 @@ dif = dif % i
 
 print()
 print("====================PH DENOMINATION====================")
-print("MONEY TO DEPOSIT --------- > ", money)
-
+print("MONEY TO DEPOSIT ------ > ", money)
 
 print("\t1000:",sum)
 print("\t500:",sum2)
@@ -55,4 +54,5 @@ print("\t20 :",sum5)
 print("\t10 :",sum6)
 print("\t5 :",sum7)
 print("\t1 :",sum8)
+
 print("====================END OF BREAKDOWN====================")
