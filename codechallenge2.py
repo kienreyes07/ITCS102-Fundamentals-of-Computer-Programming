@@ -10,7 +10,8 @@ g = 10
 h = 5
 i = 1
 
-money = 19863
+money = eval (input("Enter Money to Deposit --> "))
+
 dif = money
 
 sum = dif // a
@@ -41,17 +42,18 @@ dif = dif % h
 sum8 = dif // i
 dif = dif % i
 
+print()
+print("====================PH DENOMINATION====================")
+print("MONEY TO DEPOSIT --------- > ", money)
 
 
-
-print("Money to Deposit -->", money)
-
-print("1000:",sum)
-print("500:",sum2)
-print("200:",sum1)
-print("100:",sum3)
-print("50 :",sum4)
-print("20 :",sum5)
-print("10 :",sum6)
-print("5 :",sum7)
-print("1 :",sum8)
+print("\t1000:",sum)
+print("\t500:",sum2)
+print("\t200:",sum1)
+print("\t100:",sum3)
+print("\t50 :",sum4)
+print("\t20 :",sum5)
+print("\t10 :",sum6)
+print("\t5 :",sum7)
+print("\t1 :",sum8)
+print("====================END OF BREAKDOWN====================")
